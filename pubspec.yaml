@@ -20,6 +20,10 @@ dependencies:
     git:
       url: https://github.com/loqmanali/getx_instance.git
 
+  getx_state_management:
+    git:
+      url: https://github.com/loqmanali/getx_state_management.git
+
   meta:
 
 

@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:getx_core/getx_core.dart';
+import 'package:getx_state_management/getx_state_management.dart';
 
 import '../rx_types/rx_types.dart';
 import 'utils/debouncer.dart';

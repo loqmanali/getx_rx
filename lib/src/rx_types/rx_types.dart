@@ -4,6 +4,7 @@ import 'dart:async';
 import 'dart:collection';
 
 import 'package:flutter/foundation.dart';
+import 'package:getx_state_management/getx_state_management.dart';
 
 import '../rx_typedefs/rx_typedefs.dart';
 
